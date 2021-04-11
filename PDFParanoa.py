@@ -73,4 +73,4 @@ def decrypt_Files():
 					
 				
 encypt_Files()
-#decrypt_Files()
+decrypt_Files()
